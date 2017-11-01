@@ -34,13 +34,13 @@
           <br>
           <h1 style="color:white; font-size:25px"><b>University of Colombo</b></h1>
           </div>
-          <br> 
+          <br>
           <nav>
             <ul id="menu">
               <li class="active"><a href="#">Home</a></li>
-              <li><a href="#">Locations</a></li>
+              <li><a href="http://localhost/abc/index.php/locationcanteen">Locations</a></li>
               <li><a href="#">Contact Us</a></li>
-              <li><a href="<?php echo base_url().'index.php/Menu/index';?>">Menu</a></li>
+              <li><a href="http://localhost/abc/index.php/home/">Menu</a></li>
               <li><a href="<?php echo base_url().'index.php/Login/loginUser';?>" style="color:white; ">Login</a></li>
               <!-- <li><a href="#"></a></li> -->
             </ul>
@@ -119,7 +119,7 @@
   <div class="main">
     <article id="content2">
       <div class="wrapper">
-        
+
       </div>
     </article>
     <!-- / content -->
@@ -135,14 +135,16 @@
             <h3>Toll Free: <span>1-800 123 45 67</span></h3>
             Copyright &copy; <a href="#">Domain Name</a> All Rights Reserved<br>
             Design by <a target="_blank" href="http://www.templatemonster.com/">TemplateMonster.com</a></section>
-         
+
         </div>
         {%FOOTER_LINK} -->
-      <!-- </footer> --> 
+      <!-- </footer> -->
       <!-- / footer -->
     <!-- </div> -->
   </div>
 </div>
 <script>Cufon.now();</script>
+
+fdgfhgjhjkjkkkj
 </body>
 </html>

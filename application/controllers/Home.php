@@ -12,12 +12,13 @@ class Home extends CI_Controller {
 	{
 		$this->load->view('location/Login');
 	}
-	
+
 	public function register()
 	{
 		$this->load->view('location/Register');
 	}
-	
-	
-	
+
+
+
+
 }
